@@ -2,7 +2,6 @@ const http = require('http');
 const express = require('express');
 const path = require('path');
 const reload = require('reload');
-const open = require('open');
 
 const app = express();
 
