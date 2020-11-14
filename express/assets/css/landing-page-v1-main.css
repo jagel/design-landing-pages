@@ -4,7 +4,7 @@ body{
 .content{
     width: 100%;
     height: calc(100vh - 180px);
-    background-image: url(bkg.png);
+    background-image: url(../img/bkg.png);
     background-repeat: no-repeat;
     background-size: 80% 80%;
     background-position: center;
